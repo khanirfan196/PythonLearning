@@ -1,0 +1,3 @@
+This is a paragraph. Written to a new file
+which is created from python code.
+This is appended data from code.This is appended data from code.
