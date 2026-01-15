@@ -1,0 +1,15 @@
+
+
+-- Learn following functions:
+
+    -- range()
+    -- help()
+    -- print()
+    -- map()
+    -- filter()
+    -- lambda
+    -- sum()
+    -- sorted()
+    -- enumerate()
+    -- zip()
+    -- open() - along with 'with' clause (called as context manager)
