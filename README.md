@@ -10,3 +10,7 @@ Repo Directory Structure and contents of it.
 - 02_Functional_Programming
 
     Contains programs based on concepts like lambda, recursion, scopes, and other built-in functions.
+
+- 03_Python_Collections 
+
+    Contains programs based on inbuilt data types/collections of lists, tuples, sets, and dictionaries. Programs based on collection modules will be added.
