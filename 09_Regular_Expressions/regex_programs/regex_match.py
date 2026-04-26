@@ -15,6 +15,8 @@ print(type(my_match))
 print("First match")
 print(my_match)
 
+print(my_match.group())
+
 my_match2 = re.match(pattern, my_str2)
 
 # returns None
